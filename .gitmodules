@@ -1,0 +1,3 @@
+[submodule "gbfs"]
+	path = gbfs
+	url = git@github.com:openbikeshare/gbfs.git
